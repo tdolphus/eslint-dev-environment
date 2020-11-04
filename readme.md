@@ -1,5 +1,4 @@
-# Info
+# Quiz 10 exercise
 
-The path to NGInx main folder:
-/usr/share/nginx/html
+Code to be used to start the Quiz 10 exercise.
 
